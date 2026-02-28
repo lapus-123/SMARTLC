@@ -1,1 +1,5 @@
 
+MONGO_URI=mongodb+srv://lapusshell_db_user:zIfGNUo45uPHIQcH@cluster0.7edgs7x.mongodb.net/?appName=Cluster0
+JWT_SECRET=smartlearningict_super_secret_jwt_key_2024
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=Admin@123
